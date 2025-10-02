@@ -111,5 +111,6 @@
     "typeinfo": "cpp",
     "variant": "cpp"
   },
-  "C_Cpp.clang_format_fallbackStyle": "Google"
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+  "code-runner.runInTerminal": true
 }

@@ -42,19 +42,20 @@ int main() {
   int h(4.5); //Direct and copy initialization allows it
   std::cout << "h equals " << h << std::endl;
 
-  int l{4.5}; //While direct list doesnt allow it
+  //int l{4.5}; //While direct list doesnt allow it
 
   //------------Initializing-on-the-same-line--------
+  /*
   int a=1,b=2,c=3; //Copy initialization
   int a(1),b(2),c(3); //Direct initialization
   int a{1},b{2},c{3}; //Direct-list initialization
   int a{},b{},c{}; //Value initialization
+  */
 
   //-----------------Maybe-Unused----------------
-  [[maybe_unused]] int i{}; //dont complain if i is unused
-  int j{};
+  [[maybe_unused]] int unused{}; //dont complain if i is unused
+  int unusedtoo{};
 
   return 0;
 }
-
 //https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/
