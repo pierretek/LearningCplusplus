@@ -57,3 +57,5 @@ int main()
 
     return 0;
 }
+
+//https://www.learncpp.com/cpp-tutorial/what-language-standard-is-my-compiler-using/

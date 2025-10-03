@@ -40,3 +40,6 @@ int main() {
 
   return 0;
 }
+
+
+//https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/
