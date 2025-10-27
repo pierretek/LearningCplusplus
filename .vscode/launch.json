@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "extension-output-ms-vscode.cpptools-#2-C",
-      "program": "extension-output-ms-vscode.cpptools-#2-C/build/Debug/outDebug",
+      "cwd": "c:/Users/pierr/VSCode/AASandBox/cppPlayground/2.10-preprocessorDirectives",
+      "program": "c:/Users/pierr/VSCode/AASandBox/cppPlayground/2.10-preprocessorDirectives/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
