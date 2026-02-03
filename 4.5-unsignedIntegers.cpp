@@ -2,7 +2,7 @@
 
 // Investigating unsigned integers and why they are disliked
 int main() {
-  
+
   // unsigned integers NEED the unsigned modifier
   unsigned short a;
   unsigned int b;
